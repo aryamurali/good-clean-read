@@ -102,7 +102,7 @@ Since 2017, she has been leading the Opportunity Project at Rethink where she fa
 So far, the Opportunity Project has touched over 7000+ students who have collectively applied to opportunities worth INR 6 Crores and secured opportunities worth INR 1 Crore.
 
 ### Program Mentors
-| ![Annie](/images/annie.png)   | ![Sijo](/images/sijo.png)       |
+| ![Annie](/images/annie.png)   | ![Sijo](/images/sijo.png)|
 
 ### Program Coaches
 | ![Fausya](/images/fausya.png)   | ![Hima](/images/hima.png)       | ![Amrita](/images/amrita.png) |
@@ -121,14 +121,12 @@ Selected students will receive a GHCI 2018 Conference pass worth INR 8500.
 
 ### Timeline: WITx
 | Applications Close - Oct 14, 2018 |
-|---------------------------------|---------------------------------|-------------------------------|
 | Stage 1 Selection Results announced- Oct 15, 2018 |
 | Stage 2 Selection Results announced- Oct 21, 2018 |
 | Program starts - Oct 22, 2018 |
 | Program Ends - November 5, 2018 |
 
 ## Application Process
-
 As with every opportunity, we also have an application process. The purpose of this process is for us to know slightly more about you as a person and what your aspirations in life are. 
 
 Your application to the program happens in two stages:
