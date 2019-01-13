@@ -2,45 +2,99 @@
 layout: default
 ---
 
-I was born and brought up in Palakkad, Kerala and went to  **Kendriya Vidyalaya No.1, Palakkad**  for 12 years.
+## Rethink's Women in Tech Learning Program is a 4 week learning program for female engineering students, designed to equip them to leverage the various Women in Tech opportunities.
 
-At school, I wanted to become a physicist and I used to be that kid who sat in the last bench, trying to discover a symbol like a lambda and delta that I'd someday name Arya's constant!
+## Premise
 
-But, I did not become a physicist. I instead took up Electronics and Communication Engineering from  **Government Engineering College, Thrissur.**
+There are a number of excellent opportunities for female engineering students out there. These opportunities mostly provide financial aid for young, smart women to pursue technology, and also facilitate mentorship/industry connect for them to excel in their career.
 
-For the past 2 years, I have been leading efforts at  [**Google Women Techmakers, Cochin**](http://www.google.com/url?q=http%3A%2F%2Fgdgcochin.org%2F&sa=D&sntz=1&usg=AFQjCNHQBAqsCCIdDq75KMNW3NtaR2PtaA)  - supporting and building a community of women in tech.
+**Some of the existing brilliant opportunities for women in tech in India are:**
 
-I also tried by hand at building a startup. My team and I got selected to build a startup while in college as a part of the  [**SV.CO**](https://www.google.com/url?q=https%3A%2F%2Fsv.co%2F&sa=D&sntz=1&usg=AFQjCNH-JVenHiSsGKe89VYOE_rX57UYow) program (We were in their first batch) for 6 months. We built  **Walat**  - A mobile app to perform cardless ATM transactions. After spending about 6 months on the product and exploring its viability (Yes, we spoke with potential customers - ICICI Bank, Federal Bank et al), we understood that Fintech is a tough market to enter. It made more sense to get some worldly experience and then get to building something of our own. So yes, we  **aren't**working on it anymore :)
+1.  GHC Student Scholarship
+2.  Facebook-GHC Scholarship
+3.  GHC India Student Scholarship
+4.  WeTech Qualcomm Global Scholarship
+5.  Adobe Women in Tech Scholarship
+6.  Google Women Techmakers Scholarship
+7.  Western Digital Scholarships for STEM
+8.  Rails Girls Summer of Code
+9.  Outreachy
 
-I was lucky enough to be one of the 18 girls from India to receive the  **WeTech Qualcomm Global scholarship**. As a part of the scholarship, I received 5000$ and a 6-month virtual mentorship by one of the Engineers at Qualcom. Thanks to WeTech and Qualcomm for the opportunity!
+**Most of our girls do not apply to these programs NOT because they do not have the merit to get selected but mostly because:**
 
-I was also a  **Grace Hopper Student Scholar (2016)**  and got to attend GHCI in Bangalore, which is India's largest Women in Tech conference. If you are a woman in tech or know someone in tech, do pass on the word. The conference is organised by Anita Borg Institute (ABI) and sure is one of it's kind :)
+-   _They are not aware about these opportunities._
+-   _They do not know how to go about the application process._
+-   _They don't believe that they can get selected._
 
-In May 2016, I got the opportunity to attend  [**Google I/O**](https://events.google.com/io2016/)  in California,USA with sponsorship from Google. I was sitting somewhere in the middle of Shoreline Amphitheatre, watching Sundar Pichai launch Google Home, Allo and Duo. My very first international travel experience couldn't have gotten any better!
+This is where our Learning Program comes in to facilitate information, guidance and support in equipping them with the necessary skills to apply to opportunities such as above and get selected.
 
-In September 2016, I got selected to  [**Jagriti Yatra**](https://www.google.com/url?q=https%3A%2F%2Fjaritiyatra.com%2F&sa=D&sntz=1&usg=AFQjCNHVHfrh5mkl17ar5bH07UE1BIx47g). At JY, you live on a train and travel 8000km across India touching 12 destinations in 15 days. You get down in these destinations, visit the innermost corners of India and understand what reality is like. You get to interact with role models who are working on grass root development programs, trying to make India a better place.
+**If you are a female engineering student, this program is for you**. The program has been curated based on the learning and insights from over 100 girls who have nailed these opportunities.
 
-Being a student, I couldn't afford to pay the Yatra fee of INR 62,000 and so I ran a crowdfunding campaign  [**AruforJY**](https://www.google.com/url?q=https%3A%2F%2Fwww.ketto.org%2Ffundraiser%2Faruforjy&sa=D&sntz=1&usg=AFQjCNHcB2lFsSdPxunjdL0r6lvGNBllbA) to get support from people in my network. I was able to raise INR 68,650 in 5 days from 52 supporters. Both the crowdfunding campaign and the yatra were a phenomenal experience for me! I spoke about my crowdfunding experience and learning at TEDx MACE as well -  [**A crowd sourced journey.**](https://www.youtube.com/watch?v=nna1B8s9XnA&t=1s).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nna1B8s9XnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+It is going to be a 4-week hustle to improve your confidence and skills in applying to these opportunities. You can expect to have super interactive, fun activities paired with peer-learning throughout the course. You will also receive access to the previous winners of these programs and learn from the winners themselves. By the end of the program, you can expect to be aware of the various WIT Opportunities, how you can discover them, how you can put in a winning application and how you can improve your profile so you stand a better chance at getting selected.
 
 
-Over the course of time, I have been able to pick up a lot of skills owing to the exposure I received through these opportunities. However as it stands now, not all know about these opportunities and not many understand why they matter. This is why I'm on a mission to democratise opportunities.
+## Program Details
 
-**This led me to lead the Opportunity Project at  [Rethink](https://www.google.com/url?q=https%3A%2F%2Fwiki.rethinkfoundation.in%2FMain_Page&sa=D&sntz=1&usg=AFQjCNGB8hlGVn0YVHj1eISh3KJ6OwvKPQ)**. We curate good opportunities, ensure that our youngsters are aware that such opportunities exist and work with them by offering information, capacity building and guidance. Our objective is to ensure that more and more of our students/youth are able to take advantage of these opportunities.
+### Program Pre-requisites
 
-In the last once year, we've created this **[wikipedia of opportunities](http://www.google.com/url?q=http%3A%2F%2Fwiki.rethinkfoundation.in&sa=D&sntz=1&usg=AFQjCNEWOZxaC7iaS-GI-zntBbZg44FNeQ)** and **built our a community with over 7000 students across India.**
+Our learning program will be conducted online. All our key communication will be facilitated over email and our discussions will happen on telegram, which is why it is imperative that you regularly check your email inbox and also have a telegram account.
 
-**Over 300 students from our community have secured an opportunity of which 100+ are female students.**
+So, it is mandatory that you have:
 
-Given my fervour for diversity causes and initiatives, **I currently run the  [Women in Tech Learning Program](http://www.google.com/url?q=http%3A%2F%2Fwit.rethinkfoundation.in&sa=D&sntz=1&usg=AFQjCNFor2gZsexAVHhz0gAxOsMDhP0Ufg)**  - a 4 week learning program for female engineering students, designed to equip them to leverage the various Women in Tech opportunities. This program happens to be the first of it's kind and is working out phenomenally well so far!
+-   Access to a laptop/desktop
+-   Access to reliable internet connection
+-   A telegram account
+-   A working email address
 
-Other than that, I am an ENFP. I like meeting and interacting with people. But after every 2 days of active speaking and public engagement, I need a day for myself to just get back on my toes.
+  
 
-I love bright, sunny days and a perfect morning for me is waking up to melodies, journaling my random thoughts while sipping away some hot coffee. I have a thing for rush-free mornings.
+### Feel free to apply if,
 
-I'm happiest when I'm creating things or adding value to the world around me.  [Anitagrace.in](http://www.google.com/url?q=http%3A%2F%2Fanitagrace.in&sa=D&sntz=1&usg=AFQjCNGiuIFsvwKD8oJ36sh5MX08XNrhiA)  is a chat bot that provides information about the GHCI Student Scholarships and is a very recent 20% project of mine.
+-   You're interested in applying to WIT Opportunities
+-   You're committed to learning and improving your skills
+-   You're open and willing to share your learning and experiences
 
-I blog about my learning, thoughts and experiences **[here](https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40aryamurali&sa=D&sntz=1&usg=AFQjCNFjzUgY_0_TJbHTXBbmHhIsDHIpJQ).**
+  
 
-**Feel free to contact me at  [hello@aryamurali.com.](mailto:hello@aryamurali.com.)**
+### In the program, we will cover,
+
+-   Discovering Opportunities
+-   Validating Opportunities
+-   Writing Application Essays
+-   Building your Resume
+-   Seeking Recommendation Letters
+-   Getting your Application Reviewed
+-   Improving your Profile
+-   Building an Online Presence
+
+What you can expect is a series of fun activities to understand each of the topics above. When it comes to applying to opportunities, there is no one right answer. It is always about perspectives and how you approach these opportunities. This is why you will have a more hands-on experience and will rely heavily on peer-learning/discussions to form perspectives. We will also look to rope in previous winners of these opportunities so they can share their approach, perspectives, learnings and experiences that helped them get selected.
+
+To know more about why we rely on peer-learning, checkout [this blog.](https://www.google.com/url?q=https%3A%2F%2Fblog.rethinkfoundation.in%2Frethinks-learning-community-d712bfa52243&sa=D&sntz=1&usg=AFQjCNEuJB3XQT4ydEO7CD5p9tQAbSenBQ) 
+
+### During the program, you will be expected to
+
+-   Actively participate in all discussions and activities.
+-   Maintain weekly TWTWs.
+
+(TWTW stands for **T**he **W**eek **T**hat **W**as and is a summary of your learning and experiences through the week. Checkout some sample TWTWs [**here**](https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fsearch%3Fq%3DTWTW&sa=D&sntz=1&usg=AFQjCNGVbnxoKNsA1aWlfhe-tJJjU6H8-A))
+
+  
+
+### By the end of the program,
+
+-   You would be familiar with Opportunities in the WIT space and their Application Processes
+-   You would have completed first version of a typical application for WIT Opportunities
+-   You would have improved on your learning, confidence and had lots of fun.
+-   You would have access to a peer-network of smart female engineers.
+-   You would have access to previous winners of WIT Opportunities.
+
+### Selections
+We will soon open applications for Cohort 2 of the WIT Program.
+
+## Program Anchor
+[img src="/images/arya_wit.png"]
+Arya is a 2015 WeTech Qualcomm Global Scholar and a 2016 GHCI Scholar.
+
+Since 2017, she has been leading the Opportunity Project at Rethink where she facilitates guidance and support to students and help them avail various opportunities at their disposal.
+
+So far, the Opportunity Project has touched over 7000+ students who have collectively applied to opportunities worth INR 6 Crores and secured opportunities worth INR 1 Crore.
