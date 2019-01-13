@@ -92,7 +92,7 @@ To know more about why we rely on peer-learning, checkout [this blog.](https://w
 We will soon open applications for Cohort 2 of the WIT Program.
 
 ### Program Anchor
-<img src="/images/arya_wit.png">
+<img src="/images/arya-wit.png" alt="Arya Murali">
 Arya is a 2015 WeTech Qualcomm Global Scholar and a 2016 GHCI Scholar.
 
 Since 2017, she has been leading the Opportunity Project at Rethink where she facilitates guidance and support to students and help them avail various opportunities at their disposal.
