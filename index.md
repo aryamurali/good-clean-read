@@ -130,7 +130,7 @@ Selected students will receive a GHCI 2018 Conference pass worth INR 8500.
 | Program starts - Oct 22, 2018 |
 | Program Ends - November 5, 2018 |
 
-## Application Process
+### Application Process
 As with every opportunity, we also have an application process. The purpose of this process is for us to know slightly more about you as a person and what your aspirations in life are. 
 
 Your application to the program happens in two stages:
