@@ -119,7 +119,7 @@ This year, WIT Program has partnered with AnitaB (GHC) India in setting up the W
 
 Selected students will receive a GHCI 2018 Conference pass worth INR 8500.
 
-| ![GHCI](/images/ghcil.png) | GHCI is India’s largest technical conference for women in computing and technology. The conference is co-presented by the Anita Borg Institute (ABI) India and Association of Computing Machinery (ACM) India. ABI India has been successfully organising this annual conference since 2010. |
+| ![GHCI](/images/ghcil.png) | GHCI is India’s largest technical conference for women in computing and technology. The conference is co-presented by the Anita Borg Institute (ABI) India and Association of Computing Machinery (ACM) India. |
 
 ### Timeline: WITx
 
@@ -131,13 +131,10 @@ Selected students will receive a GHCI 2018 Conference pass worth INR 8500.
 | Program Ends - November 5, 2018 |
 
 ## Application Process
-
 As with every opportunity, we also have an application process. The purpose of this process is for us to know slightly more about you as a person and what your aspirations in life are. 
 
 Your application to the program happens in two stages:
-
 1. You record your interest.
-
 2. You fill the application form.
 
 **Stage 1 (Recording your interest)** happens on Telegram. We use our Rethink Bot on telegram to create your profile with us and capture your interest in the program. Once you create your profile, you will receive a **Profile Reference Number(PRN)** along with the main application form. This is a number unique to you and will be asked for in the main application.
@@ -147,7 +144,6 @@ Your application to the program happens in two stages:
 Remember, if your PRN is invalid, your application submission will also be considered invalid.
 
 #### How to set up your profile with us
-
 Here is what you should do to set your profile and record your interest in Stage 1:
 
 - Create an account on Telegram and Sign in.
@@ -157,7 +153,6 @@ Here is what you should do to set your profile and record your interest in Stage
 - If your profile does not exist with us, the bot will prompt you to create your profile. After you create the profile, type /**WIT** once more to record your interest and receive your PRN as well application link.
 
 #### Note
-
 - The bot might take a while to respond to your queries. Please be patient while you wait to create your profile.
 - Using a random PRN or a PRN that belongs to someone else will make your application invalid.
 
