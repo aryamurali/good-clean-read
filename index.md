@@ -101,5 +101,9 @@ Since 2017, she has been leading the Opportunity Project at Rethink where she fa
 
 So far, the Opportunity Project has touched over 7000+ students who have collectively applied to opportunities worth INR 6 Crores and secured opportunities worth INR 1 Crore.
 
-{% include image-gallery.html folder="/images" %}
-
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li>![image.title](image.image_path)
+  </li>
+  {% endfor %}
+</ul>
