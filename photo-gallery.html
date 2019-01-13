@@ -5,6 +5,11 @@ images:
     title: Arya Murali
  - image_path: /images/aryawit.png
     title: Arya Murali
-    - image_path: /images/aryawit.png
+ - image_path: /images/aryawit.png
     title: Arya Murali
 ---
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
