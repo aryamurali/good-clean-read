@@ -93,7 +93,7 @@ We will soon open applications for Cohort 2 of the WIT Program.
 
 ### Program Anchor
 
-<img src="/images/aryawit.png" alt="Arya Murali">
+![Arya Murali](/images/aryawit.png){:class="img-responsive"}
 
 Arya is a 2015 WeTech Qualcomm Global Scholar and a 2016 GHCI Scholar.
 
