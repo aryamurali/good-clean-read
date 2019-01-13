@@ -121,6 +121,7 @@ Selected students will receive a GHCI 2018 Conference pass worth INR 8500.
 
 ### Timeline: WITx
 | Applications Close - Oct 14, 2018 |
+| ------ |
 | Stage 1 Selection Results announced- Oct 15, 2018 |
 | Stage 2 Selection Results announced- Oct 21, 2018 |
 | Program starts - Oct 22, 2018 |
