@@ -93,13 +93,10 @@ We will soon open applications for Cohort 2 of the WIT Program.
 
 ### Program Anchor
 
-![Arya Murali](/images/aryawit.png){:class="img-responsive"}
+![Arya Murali](/images/aryawit.png)
 
 Arya is a 2015 WeTech Qualcomm Global Scholar and a 2016 GHCI Scholar.
 
 Since 2017, she has been leading the Opportunity Project at Rethink where she facilitates guidance and support to students and help them avail various opportunities at their disposal.
 
 So far, the Opportunity Project has touched over 7000+ students who have collectively applied to opportunities worth INR 6 Crores and secured opportunities worth INR 1 Crore.
-
-| ![Arya](/images/aryawit.png) | ![Arya](/images/aryawit.png) | ![Arya](/images/aryawit.png) |
-|------------------------------|------------------------------|------------------------------|
