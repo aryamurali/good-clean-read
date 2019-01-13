@@ -22,6 +22,8 @@ In September 2016, I got selected to  [**Jagriti Yatra**](https://www.google.com
 
 Being a student, I couldn't afford to pay the Yatra fee of INR 62,000 and so I ran a crowdfunding campaign  [**AruforJY**](https://www.google.com/url?q=https%3A%2F%2Fwww.ketto.org%2Ffundraiser%2Faruforjy&sa=D&sntz=1&usg=AFQjCNHcB2lFsSdPxunjdL0r6lvGNBllbA) to get support from people in my network. I was able to raise INR 68,650 in 5 days from 52 supporters. Both the crowdfunding campaign and the yatra were a phenomenal experience for me! I spoke about my crowdfunding experience and learning at TEDx MACE as well -  [**A crowd sourced journey.**](https://www.youtube.com/watch?v=nna1B8s9XnA&t=1s).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nna1B8s9XnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Over the course of time, I have been able to pick up a lot of skills owing to the exposure I received through these opportunities. However as it stands now, not all know about these opportunities and not many understand why they matter. This is why I'm on a mission to democratise opportunities.
 
 **This led me to lead the Opportunity Project at  [Rethink](https://www.google.com/url?q=https%3A%2F%2Fwiki.rethinkfoundation.in%2FMain_Page&sa=D&sntz=1&usg=AFQjCNGB8hlGVn0YVHj1eISh3KJ6OwvKPQ)**. We curate good opportunities, ensure that our youngsters are aware that such opportunities exist and work with them by offering information, capacity building and guidance. Our objective is to ensure that more and more of our students/youth are able to take advantage of these opportunities.
