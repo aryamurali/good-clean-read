@@ -4,7 +4,7 @@ layout: default
 
 ## Rethink's Women in Tech Learning Program is a 4 week learning program for female engineering students, designed to equip them to leverage the various Women in Tech opportunities.
 
-## Premise
+### Premise
 
 There are a number of excellent opportunities for female engineering students out there. These opportunities mostly provide financial aid for young, smart women to pursue technology, and also facilitate mentorship/industry connect for them to excel in their career.
 
@@ -33,9 +33,9 @@ This is where our Learning Program comes in to facilitate information, guidance 
 It is going to be a 4-week hustle to improve your confidence and skills in applying to these opportunities. You can expect to have super interactive, fun activities paired with peer-learning throughout the course. You will also receive access to the previous winners of these programs and learn from the winners themselves. By the end of the program, you can expect to be aware of the various WIT Opportunities, how you can discover them, how you can put in a winning application and how you can improve your profile so you stand a better chance at getting selected.
 
 
-## Program Details
+### Program Details
 
-### Program Pre-requisites
+#### Program Pre-requisites
 
 Our learning program will be conducted online. All our key communication will be facilitated over email and our discussions will happen on telegram, which is why it is imperative that you regularly check your email inbox and also have a telegram account.
 
@@ -48,7 +48,7 @@ So, it is mandatory that you have:
 
   
 
-### Feel free to apply if,
+#### Feel free to apply if,
 
 -   You're interested in applying to WIT Opportunities
 -   You're committed to learning and improving your skills
@@ -56,7 +56,7 @@ So, it is mandatory that you have:
 
   
 
-### In the program, we will cover,
+#### In the program, we will cover,
 
 -   Discovering Opportunities
 -   Validating Opportunities
@@ -71,7 +71,7 @@ What you can expect is a series of fun activities to understand each of the topi
 
 To know more about why we rely on peer-learning, checkout [this blog.](https://www.google.com/url?q=https%3A%2F%2Fblog.rethinkfoundation.in%2Frethinks-learning-community-d712bfa52243&sa=D&sntz=1&usg=AFQjCNEuJB3XQT4ydEO7CD5p9tQAbSenBQ) 
 
-### During the program, you will be expected to
+#### During the program, you will be expected to
 
 -   Actively participate in all discussions and activities.
 -   Maintain weekly TWTWs.
@@ -80,7 +80,7 @@ To know more about why we rely on peer-learning, checkout [this blog.](https://w
 
   
 
-### By the end of the program,
+#### By the end of the program,
 
 -   You would be familiar with Opportunities in the WIT space and their Application Processes
 -   You would have completed first version of a typical application for WIT Opportunities
@@ -88,10 +88,10 @@ To know more about why we rely on peer-learning, checkout [this blog.](https://w
 -   You would have access to a peer-network of smart female engineers.
 -   You would have access to previous winners of WIT Opportunities.
 
-### Selections
+#### Selections
 We will soon open applications for Cohort 2 of the WIT Program.
 
-## Program Anchor
+### Program Anchor
 <img src="/images/arya_wit.png">
 Arya is a 2015 WeTech Qualcomm Global Scholar and a 2016 GHCI Scholar.
 
