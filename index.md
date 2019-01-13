@@ -101,6 +101,10 @@ Since 2017, she has been leading the Opportunity Project at Rethink where she fa
 
 So far, the Opportunity Project has touched over 7000+ students who have collectively applied to opportunities worth INR 6 Crores and secured opportunities worth INR 1 Crore.
 
+### Program Mentors
+| ![Annie](/images/annie.png)   | ![Sijo](/images/sijo.png)       |
+
+### Program Coaches
 | ![Fausya](/images/fausya.png)   | ![Hima](/images/hima.png)       | ![Amrita](/images/amrita.png) |
 |---------------------------------|---------------------------------|-------------------------------|
 | ![Sethu](/images/sethu.png)     | ![Pheba](/images/pheba.png)     | ![Amalu](/images/amalu.png)   |
