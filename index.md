@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 I was born and brought up in Palakkad, Kerala and went to  **Kendriya Vidyalaya No.1, Palakkad**  for 12 years.
