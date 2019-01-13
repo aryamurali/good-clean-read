@@ -24,6 +24,7 @@ Being a student, I couldn't afford to pay the Yatra fee of INR 62,000 and so I r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nna1B8s9XnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Over the course of time, I have been able to pick up a lot of skills owing to the exposure I received through these opportunities. However as it stands now, not all know about these opportunities and not many understand why they matter. This is why I'm on a mission to democratise opportunities.
 
 **This led me to lead the Opportunity Project at  [Rethink](https://www.google.com/url?q=https%3A%2F%2Fwiki.rethinkfoundation.in%2FMain_Page&sa=D&sntz=1&usg=AFQjCNGB8hlGVn0YVHj1eISh3KJ6OwvKPQ)**. We curate good opportunities, ensure that our youngsters are aware that such opportunities exist and work with them by offering information, capacity building and guidance. Our objective is to ensure that more and more of our students/youth are able to take advantage of these opportunities.
